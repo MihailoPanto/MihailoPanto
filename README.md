@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Mihailo%20Pantović&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Software+Engineer+%40+First+Circle;Backend+dev+%7C+Cloud+%7C+ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Software+Engineer+%40+First+Circle;Backend+Systems+%7C+Cloud+Infrastructure)](https://git.io/typing-svg)
 
 <br/>
 
