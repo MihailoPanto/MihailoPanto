@@ -1,9 +1,175 @@
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MihailoPanto&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Mihailo%20Pantović&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Scientist&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
+
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Software+Engineer+%40+First+Circle;Building+scalable+systems+%26+data+solutions)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pm.mihailo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MihailoPanto&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🧑‍💻 About Me
+
+```yaml
+name: Mihailo Pantović
+location: Belgrade, Serbia
+education: MSc Software Engineering @ University of Belgrade
+current_role: Software Engineer @ First Circle
+interests: [Data Engineering, Machine Learning, Cloud Infrastructure, Full-Stack Dev]
+```
+
+I'm a **Software Engineer** at **First Circle** and former **Data Scientist**, based in Belgrade. I have a strong foundation in building end-to-end data solutions — from ETL pipelines and cloud infrastructure to predictive models and interactive dashboards. I love bridging the gap between raw data and real-world impact.
+
+---
+
+## 💼 Experience
+
+### 🔹 Software Engineer — First Circle *(Oct 2025 – Present)*
+
+### 🔹 Data Scientist — CAKE.com *(Apr 2025 – Sep 2025)*
+- Architecting **ETL pipelines** for large-scale data ingestion from websites and APIs
+- Managing cloud infrastructure on **GCP** using **Terraform** (IaC)
+- Built a **CLI tool** for exploratory data analysis and preprocessing
+- Deployed and maintained **FEAST** feature store infrastructure
+
+### 🔹 Data Analytics & Data Science Intern — CAKE.com *(Feb 2025 – Mar 2025)*
+- Ran analytical queries in **BigQuery** and built dashboards in **Looker Studio**
+- Developed ML models (Logistic Regression, Random Forest) for subscription prediction
+- Built a **RAG-based NLP system** using FAISS + GPT-4 for review Q&A
+
+### 🔹 Software Engineering Intern — Red Black Tree *(Sep 2023 – Oct 2023)*
+- Developed backend features with **Flask** and **SQLAlchemy** for PostgreSQL
+
+### 🔹 DevOps Program — Comtrade EDIT *(Jul 2023)*
+- Hands-on with **Docker**, **OpenShift**, CI/CD pipelines, and load balancing
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web & Frameworks
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Data & ML
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Integration Platform
+Full-stack **MEAN** app integrating Whisper AI, GPT-3.5 Turbo, Claude AI, GPT-4, TTS-1, and DALL·E 3 — covering speech-to-text, code generation, conversation, text-to-speech, and image generation.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Secure Web Application
+Hardened a **Java Spring Boot** app against SQL injection, CSRF, and XSS. Implemented role-based access control, logging, and auditing.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ MicroJava Compiler
+Built a full compiler from scratch — lexical analysis, syntax parsing, semantic analysis, and bytecode generation.
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ RISC-V Operating System
+Basic OS in **C++** for RISC-V: memory management, threading, semaphores, and console control.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏪 Store Operations Automation
+**Python + Flask + SQLAlchemy** platform with Docker-based deployment and orchestration.
+
+</td>
+<td width="50%" valign="top">
+
+### 👩‍🏫 My Favorite Teacher
+Web platform for students & teachers — **Angular** frontend, **Express.js/Node.js** backend, **MongoDB** storage.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-GITHUB&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+🎓 **Data Engineer in Python** — DataCamp Career Track *(Sep 2025)*
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+
+*⭐ If you find my work interesting, feel free to star a repo or connect!*
+
+</div>
