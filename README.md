@@ -35,7 +35,7 @@ Software Engineer based in Belgrade, currently working on backend at **First Cir
 
 ### 🔹 Software Engineer — First Circle *(Oct 2025 – Present)*
 
-### 🔹 Data Scientist — CAKE.com *(Apr 2025 – Sep 2025)*
+### 🔹 Data Scientist — CAKE.com *(Apr 2025 – Oct 2025)*
 - Architecting **ETL pipelines** for large-scale data ingestion from websites and APIs
 - Managing cloud infrastructure on **GCP** using **Terraform** (IaC)
 - Built a **CLI tool** for exploratory data analysis and preprocessing
@@ -75,10 +75,6 @@ Software Engineer based in Belgrade, currently working on backend at **First Cir
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Data & ML
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
