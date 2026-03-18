@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Mihailo%20Pantović&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Scientist&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Mihailo%20Pantović&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Software+Engineer+%40+First+Circle;Building+scalable+systems+%26+data+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Software+Engineer+%40+First+Circle;Backend+dev+%7C+Cloud+%7C+ML)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihailopantovic)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pm.mihailo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihailoPanto)
 
 </div>
 
@@ -24,10 +24,10 @@ name: Mihailo Pantović
 location: Belgrade, Serbia
 education: MSc Software Engineering @ University of Belgrade
 current_role: Software Engineer @ First Circle
-interests: [Data Engineering, Machine Learning, Cloud Infrastructure, Full-Stack Dev]
+interests: [Backend Development, Cloud Infrastructure, Machine Learning, Full-Stack Dev]
 ```
 
-I'm a **Software Engineer** at **First Circle** and former **Data Scientist**, based in Belgrade. I have a strong foundation in building end-to-end data solutions — from ETL pipelines and cloud infrastructure to predictive models and interactive dashboards. I love bridging the gap between raw data and real-world impact.
+Software Engineer based in Belgrade, currently working on backend at **First Circle**. Background in data science and cloud infrastructure.
 
 ---
 
@@ -59,11 +59,13 @@ I'm a **Software Engineer** at **First Circle** and former **Data Scientist**, b
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Web & Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -77,8 +79,6 @@ I'm a **Software Engineer** at **First Circle** and former **Data Scientist**, b
 ### Data & ML
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -91,6 +91,8 @@ I'm a **Software Engineer** at **First Circle** and former **Data Scientist**, b
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -149,12 +151,12 @@ Web platform for students & teachers — **Angular** frontend, **Express.js/Node
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=MihailoPanto&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihailoPanto&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-GITHUB&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MihailoPanto&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
