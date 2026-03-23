@@ -143,21 +143,6 @@ Web platform for students & teachers — **Angular** frontend, **Express.js/Node
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MihailoPanto&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihailoPanto&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MihailoPanto&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📜 Certifications
 
 🎓 **Data Engineer in Python** — DataCamp Career Track *(Sep 2025)*
